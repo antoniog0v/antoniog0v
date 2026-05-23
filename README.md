@@ -8,14 +8,14 @@
 ---
 
 ## 👨‍💻 About Me
-Hi there! I'm a passionate developer exploring Android, Kotlin, Java, and web development. I love building apps and projects that solve real-world problems and learning new technologies along the way.  
+Hi there! I'm a passionate developer exploring React, Kotlin, Java, and web development. I love building apps and projects that solve real-world problems and learning new technologies along the way.  
 
 Currently, I’m working on personal projects and contributing to open-source whenever I can.
 
 ---
 
 ## 🔧 Technologies & Tools
-**Languages:** Kotlin, Java, Java, JavaScript, SQL  
+**Languages:** Kotlin, Java, JavaScript, SQL, HTML
 **Frameworks & Libraries:** Android, React, Node.js  
 **Tools & Platforms:** Android Studio, IntelliJ, VS Code, Git, GitHub  
 
