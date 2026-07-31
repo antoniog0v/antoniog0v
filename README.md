@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonio Villani
 
-🎓 Computer Science student at SUNY Farmingdale  
+🎓 Computer Science alumni at SUNY Farmingdale  
 💻 Aspiring Software Engineer | Android & Full-Stack Developer  
 🌍 Based in Bellmore, NY  
 📧 antoniogvillani@gmail.com 
